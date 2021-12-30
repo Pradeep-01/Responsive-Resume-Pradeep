@@ -7,7 +7,7 @@ body{
 #header{
     height: 100vh;
     background: linear-gradient(black, black);
-    background-image: url(/image/bg-photo-169573.jpg);
+    background-image: url(./image/bg-photo-169573.jpg);
     opacity: 90%;
     background-position: center;
     background-size: cover;
